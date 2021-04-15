@@ -9,3 +9,4 @@ if [ -f $2 ]; then
 else
     echo "Tap tin $2 khong ton tai" > $3
 fi
+exit 0

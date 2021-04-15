@@ -24,3 +24,4 @@ else
             fi
     esac
 fi
+exit 0
